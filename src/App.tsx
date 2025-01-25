@@ -7,7 +7,7 @@ function App() {
       <div className="relative min-h-screen flex items-center justify-center px-4">
         {/* Background Pattern */}
         <div className="absolute inset-0 opacity-40">
-          <div className="absolute inset-0 bg-[url('twitter-image.jpg')] bg-cover bg-center"></div>
+          <div className="absolute inset-0 bg-[url('/twitter-image.png')] bg-cover bg-center"></div>
         </div>
 
         {/* Content */}
