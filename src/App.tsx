@@ -12,16 +12,11 @@ function App() {
 
         {/* Content */}
         <div className="relative z-10 max-w-4xl mx-auto text-center">
-          <div className="flex justify-center items-center gap-3 mb-6">
-            <Star className="w-8 h-8 text-white animate-pulse" />
-            <Star className="w-8 h-8 text-white animate-pulse" />
-            <Star className="w-8 h-8 text-white animate-pulse" />
-          </div>
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl uppercase font-extrabold text-white mb-2 sm:mb-2 animate-fade-in">
             Bablesh Khalifa Rocks
           </h1>
           <p className="text-xs sm:text-sm md:text-md lg:text-lg text-white leading-normal sm:leading-relaxed mx-auto mb-4 sm:mb-6 md:mb-8">
-            It doesn’t work; he does it even with the negligible hope available to him, but he’s deluded. Somewhere around, he’s about to die trying. He says it out loud: Bablesh Khalifa Rocks. Welcome, Motherfuckers.
+            We're everything but not losers.
           </p>
         </div>
 
